@@ -6,9 +6,10 @@ from flask import Flask, request, render_template, send_from_directory
 from tensorflow.keras.preprocessing import image
 from keras.models import load_model
 
-app = Flask(__name__)
 
-Food = ['apple_pie', 'cannoli', 'cheesecake', 'cheese_plate', 'chicken_wings', 'chocolate_cake', 'deviled_eggs', 'donuts', 'french_fries', 'frozen_yogurt', 'ice_cream', 'macarons']
+app = Flask(__name__)
+Food = ['apple_pie',  'cannoli', 'cheesecake', 'cheese_plate', 'chicken_wings', 'chocolate_cake', 'deviled_eggs', 'donuts', 'french_fries', 'frozen_yogurt', 'ice_cream', 'macarons']
+
 
 @app.route("/")
 def index():
