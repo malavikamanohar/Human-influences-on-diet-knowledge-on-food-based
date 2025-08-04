@@ -11,6 +11,10 @@ ARCHITECTURE
 <img width="589" height="372" alt="image" src="https://github.com/user-attachments/assets/ef9f38e3-312e-4952-802e-cb66dba9ffb3" />
 
 
+
+HOME SCREEN
+
+
 <img width="1022" height="486" alt="image" src="https://github.com/user-attachments/assets/36b928b7-60a0-45da-930c-609192999074" />
 
 
