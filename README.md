@@ -13,14 +13,26 @@ ARCHITECTURE
 
 <img width="1022" height="486" alt="image" src="https://github.com/user-attachments/assets/36b928b7-60a0-45da-930c-609192999074" />
 
+
+
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/f82e68c0-6e61-46d8-af6b-13cca11caf45" />
 
+
+
+
 <img width="980" height="469" alt="image" src="https://github.com/user-attachments/assets/c98c1752-23cd-4bd5-87a5-5e79d3b6d494" />
+
+
+
 
 <img width="963" height="461" alt="image" src="https://github.com/user-attachments/assets/94832a2c-9f4f-47b5-88af-74775967df74" />
 
 
+
 OUTPUT 
+
+
+
 <img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/7efde81f-acc8-402c-86e0-2ce0b9db73c4" />
 
 
